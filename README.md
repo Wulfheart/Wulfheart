@@ -19,3 +19,11 @@ Brahms is a command line utility written in Go that quickly generates good-looki
 #### CovidBulkBavaria aka. Reihentestungstool (📖[Repo](https://github.com/Wulfheart/CovidBulkBavaria))
 
 A WPF tool to efficiently register a large number of coronatests in Bavaria for row testing based on an Excel file.
+
+#### CovidTestSammler (📖[Repo](https://github.com/Wulfheart/CovidTestSammler))
+
+A desktop tool that helps large facilities to automatically evaluate the test results that Eurofins LifeCodexx sends you. Used e.g. by AWO Kulmbach.
+
+#### Laravel Mailto (📖[Repo](https://github.com/Wulfheart/laravel-mailto))
+
+Laravel-Mailto allows you to generate mailto-links with recipients, cc and bcc, subject and body. If an user clicks the link it opens the default mail editor prefilled with data. This comes in handy if you want your users to have the ability to send emails from their own client.
