@@ -4,6 +4,9 @@ Hey, my name is Alex and this Readme is still in progress. . Feel free to contac
 
 ### Projects
 
+ #### Pretty Routes for Laravel (📖[Repo](https://github.com/Wulfheart/pretty-routes))
+Display your Laravel routes in the console, but make it pretty. sunglasses
+
 #### Bootsführerschein Theorie (📖[Repo](https://github.com/Wulfheart/bootsfuehrerschein-theorie))
  A simple quizzing application to help to learn the theory questions for the boating license. Built with Laravel 8, Laravel Livewire v2, TailwindCSS and AlpineJS.
  
