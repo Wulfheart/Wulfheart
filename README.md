@@ -30,3 +30,13 @@ A desktop tool that helps large facilities to automatically evaluate the test re
 #### Laravel Mailto (📖[Repo](https://github.com/Wulfheart/laravel-mailto))
 
 Laravel-Mailto allows you to generate mailto-links with recipients, cc and bcc, subject and body. If an user clicks the link it opens the default mail editor prefilled with data. This comes in handy if you want your users to have the ability to send emails from their own client.
+
+### 📣 Speaking
+
+#### Flash the Bash - Laravel Meetup DACH 🇩🇪 (📺[Video](https://youtu.be/jfSzLG3UttA?t=805))
+
+Integration of CLI applications in a Laravel app and security implications.
+
+#### Bootsführerschein Theorie - Laravel Meetup DACH 🇩🇪 (📺[Video](https://youtu.be/jfSzLG3UttA?t=805))
+
+Brief introduction of a simple quizzing application to help to learn the theory questions for the boating license. Built with Laravel 8, Laravel Livewire v2, TailwindCSS and AlpineJS. 📖[Repo](https://github.com/Wulfheart/bootsfuehrerschein-theorie)
