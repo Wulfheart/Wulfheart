@@ -37,6 +37,6 @@ Laravel-Mailto allows you to generate mailto-links with recipients, cc and bcc, 
 
 Integration of CLI applications in a Laravel app and security implications.
 
-#### Bootsführerschein Theorie - Laravel Meetup DACH 🇩🇪 (📺[Video](https://youtu.be/jfSzLG3UttA?t=805))
+#### Bootsführerschein Theorie - Laravel Meetup DACH 🇩🇪 (📺[Video](https://youtu.be/RFwVkMOKNIs?t=1397))
 
 Brief introduction of a simple quizzing application to help to learn the theory questions for the boating license. Built with Laravel 8, Laravel Livewire v2, TailwindCSS and AlpineJS. 📖[Repo](https://github.com/Wulfheart/bootsfuehrerschein-theorie)
